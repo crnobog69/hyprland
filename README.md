@@ -7,3 +7,5 @@
 [`catppuccin/hyprlock`](https://github.com/catppuccin/hyprlock)
 <br>
 [`catppuccin/waybar`](https://github.com/catppuccin/waybar?tab=readme-ov-file)
+<br>
+[`CachyOS/linux-cachyos`](https://github.com/CachyOS/linux-cachyos)
